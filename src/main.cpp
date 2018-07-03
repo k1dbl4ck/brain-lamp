@@ -33,8 +33,8 @@ const int G_PIN = 4; //D2
 const int B_PIN = 0; //D3
 
 // Enumerate WiFi credentials
-const char *ssid = "BUTTERWORTH";
-const char *password = "3l3m3nt4l";
+const char *ssid = "...";
+const char *password = "...";
 
 // Enumerate MQTT broker IP
 const char *mqtt_server = "192.168.0.200";
